@@ -1,0 +1,26 @@
+# Site settings
+title: My Name is Colette Taylor
+email: coletteisabella@gmail.com
+description: "A place where a programmer discusses creating, and rediscovery."
+baseurl: ""
+url: "http://colettetaylor.com"
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+linkedin_user: coletteisabella
+
+github_user: ColetteIsabella
+github_repo_count: 0
+github_show_profile_link: true
+github_skip_forks: true
+
+twitter_user: coletteisabella
+twitter_tweet_button: true
+
+googleplus_user:
+googleplus_hidden: false
+
+disqus_short_name:
+disqus_show_comment_count: false
